@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/src/golitath_mobile/hoverboard_ros2_control/hoverboard_demo_bringup/launch/hoverboard.launch.py

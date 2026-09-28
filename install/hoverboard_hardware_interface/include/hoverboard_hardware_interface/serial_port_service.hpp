@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/src/golitath_mobile/hoverboard_ros2_control/hoverboard_hardware_interface/include/hoverboard_hardware_interface/serial_port_service.hpp

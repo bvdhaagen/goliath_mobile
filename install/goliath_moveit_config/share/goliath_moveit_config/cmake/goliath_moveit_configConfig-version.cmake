@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/goliath_moveit_config/ament_cmake_core/goliath_moveit_configConfig-version.cmake

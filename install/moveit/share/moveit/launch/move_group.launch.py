@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/src/golitath_mobile/moveit/launch/move_group.launch.py

@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/goliath_interfaces/ament_cmake_core/goliath_interfacesConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_generator_py/goliath_interfaces/_goliath_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c

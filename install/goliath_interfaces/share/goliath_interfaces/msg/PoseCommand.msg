@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/src/golitath_mobile/goliath/goliath_interfaces/msg/PoseCommand.msg

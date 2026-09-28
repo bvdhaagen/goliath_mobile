@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/src/rplidar_ros/launch/rplidar_s3_launch.py

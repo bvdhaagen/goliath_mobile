@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/gripper_description/launch/gazebo.launch.py

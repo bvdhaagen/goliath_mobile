@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_generator_c/goliath_interfaces/msg/rosidl_generator_c__visibility_control.h

@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_generator_rs/goliath_interfaces/rust/build.rs

@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/src/goliath_moveit_config/launch/demo.launch.py

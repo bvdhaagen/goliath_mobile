@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/ament_cmake_environment_hooks/local_setup.bash

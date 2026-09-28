@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_generator_cpp/goliath_interfaces/msg/detail/pose_command__struct.hpp

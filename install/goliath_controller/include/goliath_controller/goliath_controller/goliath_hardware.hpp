@@ -1,1 +1,0 @@
-/home/bart/goliath_mobile/src/golitath_mobile/goliath/goliath_controller/hardware/include/goliath_controller/goliath_hardware.hpp
