@@ -1,0 +1,30 @@
+teleop_twist_joy:
+  ros__parameters:
+    # --- Veiligheid & Knoppen ---
+    # R1 knop (rechter bumper / blokknop) als deadman/safety switch
+    enable_button: 5
+    
+    # Gebruik de 'turbo' modus door L1 (knop 4) ingedrukt te houden voor extra snelheid
+    # enable_turbo_button: 4
+
+    # --- Assen voor besturing ---
+    # Linker stick verticaal voor LINEAIRE snelheid (voor/achteruit)
+    axis_linear:
+      x: 1
+
+    # Rechter stick horizontaal voor ANGULAIRE snelheid (links/rechts draaien)
+    axis_angular:
+      yaw: 3
+
+    # --- Snelheidsgrenzen (Schaaling) ---
+    # Normale stand (alleen R1 ingedrukt):
+    scale_linear:
+      x: 0.5        # Max linear m/s in normale stand
+    scale_angular:
+      yaw: 1.0      # Max rad/s (draaisnelheid) in normale stand
+
+    # Turbo stand (R1 + L1 ingedrukt):
+    scale_linear_turbo:
+      x: 1.0        # Max linear m/s op turbo
+    scale_angular_turbo:
+      yaw: 2.0      # Max rad/s op turbo
