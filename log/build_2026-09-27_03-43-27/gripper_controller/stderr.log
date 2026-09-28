@@ -1,4 +1,0 @@
-[01m[K/home/bart/goliath_mobile/src/goliath_gripper/gripper_controller/hardware/gripper_hardware.cpp:[m[K In member function ‘[01m[Kvirtual hardware_interface::return_type gripper_controller::RobotSystem::write(const rclcpp::Time&, const rclcpp::Duration&)[m[K’:
-[01m[K/home/bart/goliath_mobile/src/goliath_gripper/gripper_controller/hardware/gripper_hardware.cpp:118:11:[m[K [01;35m[Kwarning: [m[Kcomparison of unsigned expression in ‘[01m[K< 0[m[K’ is always false [[01;35m[K]8;;https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html#index-Wtype-limits-Wtype-limits]8;;[m[K]
-  118 |     if ([01;35m[Ki < 0[m[K) cmd << ",";
-      |         [01;35m[K~~^~~[m[K
