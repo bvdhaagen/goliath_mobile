@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<xacro:macro name="gripper_ros2_control" xmlns:xacro="http://www.ros.org/wiki/xacro">
+ 
+  <ros2_control name="gripper" type="system">
+
+    <hardware>
+      <plugin>gripper_controller/RobotSystem</plugin>
+      <param name="position1_joint_name">Slider 22</param>
+      <param name="position2_joint_name">Slider 23</param>
+      <param name="loop_rate">50</param>
+      <param name="device">/dev/ttyGoliath_GRIPPER</param>
+      <param name="baud_rate">115200</param>
+      <param name="timeout">1000</param>
+    </hardware>
+
+    <joint name="Slider 22">
+      <command_interface name="position">
+        <param name="min">${-2*pi}</param>
+        <param name="max">${2*pi}</param>
+      </command_interface>
+      <state_interface name="position">
+        <param name="initial_value">0.0</param>
+      </state_interface>
+    </joint>
+
+    <joint name="Slider 23">
+      <command_interface name="position">
+        <param name="min">${-2*pi}</param>
+        <param name="max">${2*pi}</param>
+      </command_interface>
+      <state_interface name="position">
+        <param name="initial_value">0.0</param>
+      </state_interface>
+    </joint>
+
+  </ros2_control>
+
+</xacro:macro>
