@@ -1,0 +1,25 @@
+moveit_setup_assistant_config:
+  urdf:
+    package: goliath_controller
+    relative_path: description/urdf/goliath.urdf.xacro
+  srdf:
+    relative_path: config/goliath_mobile.srdf
+  package_settings:
+    author_name: bart
+    author_email: bart@gmail.com
+    generated_timestamp: 1789469216
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity
+  modified_urdf:
+    xacros:
+      - control_xacro
+  control_xacro:
+    command:
+      - position
+    state:
+      - position
+      - velocity

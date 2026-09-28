@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_commander_cpp/ament_cmake_core/goliath_commander_cppConfig.cmake

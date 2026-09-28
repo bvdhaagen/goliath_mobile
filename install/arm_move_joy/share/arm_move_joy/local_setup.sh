@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/arm_move_joy/ament_cmake_environment_hooks/local_setup.sh

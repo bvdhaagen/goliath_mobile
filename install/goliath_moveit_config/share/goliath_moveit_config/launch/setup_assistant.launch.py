@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/src/goliath_moveit_config/launch/setup_assistant.launch.py

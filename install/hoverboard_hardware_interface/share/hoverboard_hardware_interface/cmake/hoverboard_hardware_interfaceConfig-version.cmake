@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/hoverboard_hardware_interface/ament_cmake_core/hoverboard_hardware_interfaceConfig-version.cmake

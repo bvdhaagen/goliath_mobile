@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/src/goliath_moveit_config/launch/static_virtual_joint_tfs.launch.py

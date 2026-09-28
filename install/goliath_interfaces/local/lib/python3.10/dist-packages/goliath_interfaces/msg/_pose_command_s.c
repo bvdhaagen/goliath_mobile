@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_generator_py/goliath_interfaces/msg/_pose_command_s.c

@@ -1,0 +1,3 @@
+/home/bart/goliath_mobile/install/goliath_controller/lib/libgoliath_controller.so
+/home/bart/goliath_mobile/install/goliath_controller/share/goliath_controller/cmake/export_goliath_controllerExport.cmake
+/home/bart/goliath_mobile/install/goliath_controller/share/goliath_controller/cmake/export_goliath_controllerExport-noconfig.cmake

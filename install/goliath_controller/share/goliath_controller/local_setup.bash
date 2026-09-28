@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_controller/ament_cmake_environment_hooks/local_setup.bash

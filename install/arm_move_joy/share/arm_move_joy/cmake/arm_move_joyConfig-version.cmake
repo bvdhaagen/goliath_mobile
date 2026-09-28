@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/arm_move_joy/ament_cmake_core/arm_move_joyConfig-version.cmake

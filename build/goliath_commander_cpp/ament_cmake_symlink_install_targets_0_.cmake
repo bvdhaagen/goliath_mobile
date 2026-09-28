@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/bart/goliath_mobile/build/goliath_commander_cpp/test_moveit" "/home/bart/goliath_mobile/build/goliath_commander_cpp/commander" "TARGETS" "test_moveit" "commander" "DESTINATION" "lib/goliath_commander_cpp/")

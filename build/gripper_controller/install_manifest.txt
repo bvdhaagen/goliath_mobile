@@ -1,0 +1,3 @@
+/home/bart/goliath_mobile/install/gripper_controller/lib/libgripper_controller.so
+/home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/export_gripper_controllerExport.cmake
+/home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/export_gripper_controllerExport-noconfig.cmake

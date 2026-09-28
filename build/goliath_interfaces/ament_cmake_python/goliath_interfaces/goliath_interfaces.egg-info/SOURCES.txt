@@ -1,0 +1,8 @@
+setup.py
+goliath_interfaces/__init__.py
+goliath_interfaces.egg-info/PKG-INFO
+goliath_interfaces.egg-info/SOURCES.txt
+goliath_interfaces.egg-info/dependency_links.txt
+goliath_interfaces.egg-info/top_level.txt
+goliath_interfaces/msg/__init__.py
+goliath_interfaces/msg/_pose_command.py

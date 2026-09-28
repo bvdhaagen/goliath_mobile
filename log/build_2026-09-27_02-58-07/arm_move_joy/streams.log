@@ -1,0 +1,74 @@
+[0.026s] Invoking command in '/home/bart/goliath_mobile/build/arm_move_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake /home/bart/goliath_mobile/src/golitath_mobile/goliath/arm_move_joy -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bart/goliath_mobile/install/arm_move_joy
+[0.183s] -- The C compiler identification is GNU 11.4.0
+[0.329s] -- The CXX compiler identification is GNU 11.4.0
+[0.348s] -- Detecting C compiler ABI info
+[0.528s] -- Detecting C compiler ABI info - done
+[0.549s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.550s] -- Detecting C compile features
+[0.551s] -- Detecting C compile features - done
+[0.559s] -- Detecting CXX compiler ABI info
+[0.747s] -- Detecting CXX compiler ABI info - done
+[0.771s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.771s] -- Detecting CXX compile features
+[0.773s] -- Detecting CXX compile features - done
+[0.781s] -- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.179s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.344s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.437s] -- Found rclcpp: 16.0.19 (/opt/ros/humble/share/rclcpp/cmake)
+[1.585s] -- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.602s] -- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.630s] -- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.667s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.722s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.991s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[2.032s] -- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+[2.211s] -- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+[2.270s] -- Looking for pthread.h
+[2.643s] -- Looking for pthread.h - found
+[2.644s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[3.013s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[3.017s] -- Found Threads: TRUE  
+[3.335s] -- Found sensor_msgs: 4.9.1 (/opt/ros/humble/share/sensor_msgs/cmake)
+[3.602s] -- Found tf2: 0.25.20 (/opt/ros/humble/share/tf2/cmake)
+[3.689s] -- Found tf2_geometry_msgs: 0.25.20 (/opt/ros/humble/share/tf2_geometry_msgs/cmake)
+[3.785s] -- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+[3.796s] -- Found Eigen3: TRUE (found version "3.4.0") 
+[3.797s] -- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+[4.520s] -- Found moveit_ros_planning_interface: 2.5.9 (/opt/ros/humble/share/moveit_ros_planning_interface/cmake)
+[4.700s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: date_time filesystem program_options system thread 
+[5.535s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: chrono date_time filesystem iostreams program_options regex serialization system thread 
+[5.800s] -- Found parameter_traits: 0.7.1 (/opt/ros/humble/share/parameter_traits/cmake)
+[5.910s] -- Found rclcpp_lifecycle: 16.0.19 (/opt/ros/humble/share/rclcpp_lifecycle/cmake)
+[6.474s] -- library: /usr/lib/x86_64-linux-gnu/libcurl.so
+[7.006s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread chrono 
+[7.108s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: thread system filesystem regex date_time program_options 
+[7.328s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system filesystem date_time program_options thread 
+[7.680s] -- Configuring done
+[8.280s] -- Generating done
+[8.331s] -- Build files have been written to: /home/bart/goliath_mobile/build/arm_move_joy
+[8.370s] Invoked command in '/home/bart/goliath_mobile/build/arm_move_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake /home/bart/goliath_mobile/src/golitath_mobile/goliath/arm_move_joy -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/bart/goliath_mobile/install/arm_move_joy
+[8.373s] Invoking command in '/home/bart/goliath_mobile/build/arm_move_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --build /home/bart/goliath_mobile/build/arm_move_joy -- -j4 -l4
+[8.529s] [ 50%] [32mBuilding CXX object CMakeFiles/move_arm_joy.dir/src/move_arm_joy.cpp.o[0m
+[64.307s] [100%] [32m[1mLinking CXX executable move_arm_joy[0m
+[374.599s] [100%] Built target move_arm_joy
+[374.615s] Invoked command in '/home/bart/goliath_mobile/build/arm_move_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --build /home/bart/goliath_mobile/build/arm_move_joy -- -j4 -l4
+[374.619s] Invoking command in '/home/bart/goliath_mobile/build/arm_move_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --install /home/bart/goliath_mobile/build/arm_move_joy
+[374.629s] -- Install configuration: ""
+[374.630s] -- Execute custom install script
+[374.631s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/lib/arm_move_joy/move_arm_joy
+[374.642s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/ament_index/resource_index/package_run_dependencies/arm_move_joy
+[374.653s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/ament_index/resource_index/parent_prefix_path/arm_move_joy
+[374.665s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/ament_prefix_path.sh
+[374.677s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/ament_prefix_path.dsv
+[374.690s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/path.sh
+[374.702s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/path.dsv
+[374.714s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.bash
+[374.727s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.sh
+[374.739s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.zsh
+[374.751s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.dsv
+[374.763s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/package.dsv
+[374.776s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/ament_index/resource_index/packages/arm_move_joy
+[374.789s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/cmake/arm_move_joyConfig.cmake
+[374.801s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/cmake/arm_move_joyConfig-version.cmake
+[374.813s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/package.xml
+[374.827s] Invoked command in '/home/bart/goliath_mobile/build/arm_move_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --install /home/bart/goliath_mobile/build/arm_move_joy

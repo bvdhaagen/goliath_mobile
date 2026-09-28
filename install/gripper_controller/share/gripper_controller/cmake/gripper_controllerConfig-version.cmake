@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/gripper_controller/ament_cmake_core/gripper_controllerConfig-version.cmake

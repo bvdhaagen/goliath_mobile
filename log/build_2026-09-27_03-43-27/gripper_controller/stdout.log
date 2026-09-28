@@ -1,0 +1,64 @@
+-- Found ament_cmake: 1.3.14 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found pluginlib: 5.1.4 (/opt/ros/humble/share/pluginlib/cmake)
+-- Found hardware_interface: 2.54.0 (/opt/ros/humble/share/hardware_interface/cmake)
+-- Found rosidl_generator_c: 3.1.8 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+-- Found rosidl_adapter: 3.1.8 (/opt/ros/humble/share/rosidl_adapter/cmake)
+-- Found rosidl_generator_cpp: 3.1.8 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 1.3.4 (/opt/ros/humble/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found kdl_parser: 2.6.4 (/opt/ros/humble/share/kdl_parser/cmake)
+-- Found eigen3_cmake_module: 0.1.1 (/opt/ros/humble/share/eigen3_cmake_module/cmake)
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Found controller_interface: 2.54.0 (/opt/ros/humble/share/controller_interface/cmake)
+-- Found realtime_tools: 2.15.0 (/opt/ros/humble/share/realtime_tools/cmake)
+-- Found ament_cmake_pytest: 1.3.14 (/opt/ros/humble/share/ament_cmake_pytest/cmake)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bart/goliath_mobile/build/gripper_controller
+[35m[1mConsolidate compiler generated dependencies of target gripper_controller[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/gripper_controller.dir/hardware/gripper_hardware.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library libgripper_controller.so[0m
+[100%] Built target gripper_controller
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller//gripper_controller.xml
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller//gripper_controller.xml
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/include/gripper_controller/gripper_controller/gripper_hardware.hpp
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/launch/view_gripper.launch.py
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/ros2_control/gripper.ros2_control.xacro
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/urdf/gripper.gazebo
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/urdf/gripper.trans
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/urdf/gripper.xacro
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/urdf/materials.xacro
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/launch/gripper_controller.launch.py
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/launch/smooth_gripper_control.launch.py
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/config/gripper_config.yaml
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/environment/library_path.sh
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/environment/library_path.dsv
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/ament_index/resource_index/package_run_dependencies/gripper_controller
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/ament_index/resource_index/parent_prefix_path/gripper_controller
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/environment/path.sh
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/environment/path.dsv
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/local_setup.bash
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/local_setup.sh
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/local_setup.zsh
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/local_setup.dsv
+-- Symlinking: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/package.dsv
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/ament_index/resource_index/packages/gripper_controller
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/ament_index/resource_index/hardware_interface__pluginlib__plugin/gripper_controller
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/ament_index/resource_index/controller_interface__pluginlib__plugin/gripper_controller
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/gripper_controllerConfig.cmake
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/gripper_controllerConfig-version.cmake
+-- Up-to-date symlink: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/package.xml
+-- Installing: /home/bart/goliath_mobile/install/gripper_controller/lib/libgripper_controller.so
+-- Set runtime path of "/home/bart/goliath_mobile/install/gripper_controller/lib/libgripper_controller.so" to ""
+-- Up-to-date: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/export_gripper_controllerExport.cmake
+-- Up-to-date: /home/bart/goliath_mobile/install/gripper_controller/share/gripper_controller/cmake/export_gripper_controllerExport-noconfig.cmake

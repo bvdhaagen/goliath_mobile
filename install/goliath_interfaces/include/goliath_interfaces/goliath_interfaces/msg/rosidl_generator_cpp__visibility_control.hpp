@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_generator_cpp/goliath_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp

@@ -1,0 +1,24 @@
+[0.061s] Invoking command in '/home/bart/goliath_mobile/build/arm_move_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --build /home/bart/goliath_mobile/build/arm_move_joy -- -j4 -l4
+[0.282s] [35m[1mConsolidate compiler generated dependencies of target move_arm_joy[0m
+[0.377s] [100%] Built target move_arm_joy
+[0.985s] Invoked command in '/home/bart/goliath_mobile/build/arm_move_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --build /home/bart/goliath_mobile/build/arm_move_joy -- -j4 -l4
+[0.988s] Invoking command in '/home/bart/goliath_mobile/build/arm_move_joy': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --install /home/bart/goliath_mobile/build/arm_move_joy
+[1.007s] -- Install configuration: ""
+[1.007s] -- Execute custom install script
+[1.008s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/lib/arm_move_joy/move_arm_joy
+[1.008s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/ament_index/resource_index/package_run_dependencies/arm_move_joy
+[1.009s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/ament_index/resource_index/parent_prefix_path/arm_move_joy
+[1.009s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/ament_prefix_path.sh
+[1.009s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/ament_prefix_path.dsv
+[1.010s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/path.sh
+[1.010s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/environment/path.dsv
+[1.010s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.bash
+[1.012s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.sh
+[1.013s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.zsh
+[1.013s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/local_setup.dsv
+[1.014s] -- Symlinking: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/package.dsv
+[1.049s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/ament_index/resource_index/packages/arm_move_joy
+[1.052s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/cmake/arm_move_joyConfig.cmake
+[1.054s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/cmake/arm_move_joyConfig-version.cmake
+[1.056s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/arm_move_joy/share/arm_move_joy/package.xml
+[1.064s] Invoked command in '/home/bart/goliath_mobile/build/arm_move_joy' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --install /home/bart/goliath_mobile/build/arm_move_joy

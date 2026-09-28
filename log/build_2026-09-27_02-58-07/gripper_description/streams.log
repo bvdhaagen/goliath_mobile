@@ -1,0 +1,44 @@
+[2.168s] Invoking command in '/home/bart/goliath_mobile/build/gripper_description': PYTHONPATH=/home/bart/goliath_mobile/build/gripper_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bart/goliath_mobile/install/gripper_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bart/goliath_mobile/build/gripper_description/build --no-deps symlink_data
+[3.103s] running develop
+[3.643s] running egg_info
+[3.644s] creating gripper_description.egg-info
+[3.644s] writing gripper_description.egg-info/PKG-INFO
+[3.645s] writing dependency_links to gripper_description.egg-info/dependency_links.txt
+[3.646s] writing entry points to gripper_description.egg-info/entry_points.txt
+[3.648s] writing requirements to gripper_description.egg-info/requires.txt
+[3.648s] writing top-level names to gripper_description.egg-info/top_level.txt
+[3.652s] writing manifest file 'gripper_description.egg-info/SOURCES.txt'
+[3.654s] reading manifest file 'gripper_description.egg-info/SOURCES.txt'
+[3.658s] writing manifest file 'gripper_description.egg-info/SOURCES.txt'
+[3.660s] running build_ext
+[3.661s] Creating /home/bart/goliath_mobile/install/gripper_description/lib/python3.10/site-packages/gripper-description.egg-link (link to .)
+[3.663s] 
+[3.664s] Installed /home/bart/goliath_mobile/build/gripper_description
+[3.665s] running symlink_data
+[3.666s] creating /home/bart/goliath_mobile/install/gripper_description/share/ament_index
+[3.667s] creating /home/bart/goliath_mobile/install/gripper_description/share/ament_index/resource_index
+[3.667s] creating /home/bart/goliath_mobile/install/gripper_description/share/ament_index/resource_index/packages
+[3.667s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/resource/gripper_description -> /home/bart/goliath_mobile/install/gripper_description/share/ament_index/resource_index/packages
+[3.668s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/package.xml -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description
+[3.668s] creating /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/launch
+[3.669s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/launch/gazebo.launch.py -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/launch
+[3.669s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/launch/display.launch.py -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/launch
+[3.670s] creating /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/urdf
+[3.670s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/urdf/gripper.xacro -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/urdf
+[3.671s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/urdf/materials.xacro -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/urdf
+[3.672s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/urdf/gripper.gazebo -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/urdf
+[3.672s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/urdf/gripper.trans -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/urdf
+[3.673s] creating /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.674s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/rubber_right_1.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.674s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/grip_mount_1.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.675s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/left_mount_1.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.675s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/tool_base.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.676s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/rubber_left_1.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.677s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/base_link.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.677s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/t_shirt_1.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.678s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/meshes/right_mount_1.stl -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/meshes
+[3.679s] creating /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/config
+[3.679s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/config/display.rviz -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/config
+[3.680s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/config/gazebo.rviz -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/config
+[3.683s] symbolically linking /home/bart/goliath_mobile/build/gripper_description/config/ros_gz_bridge_gazebo.yaml -> /home/bart/goliath_mobile/install/gripper_description/share/gripper_description/config
+[3.762s] Invoked command in '/home/bart/goliath_mobile/build/gripper_description' returned '0': PYTHONPATH=/home/bart/goliath_mobile/build/gripper_description/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bart/goliath_mobile/install/gripper_description/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bart/goliath_mobile/build/gripper_description/build --no-deps symlink_data

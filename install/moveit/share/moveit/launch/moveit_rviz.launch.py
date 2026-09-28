@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/src/golitath_mobile/moveit/launch/moveit_rviz.launch.py

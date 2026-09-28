@@ -1,0 +1,11 @@
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/uninstall.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/goliath_controller_uninstall.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/send_trajectory.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/goliath_controller.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/test.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/edit_cache.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/rebuild_cache.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/list_install_components.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/install.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/install/local.dir
+/home/bart/goliath_mobile/build/goliath_controller/CMakeFiles/install/strip.dir

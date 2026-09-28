@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/rplidar_ros/ament_cmake_core/rplidar_rosConfig.cmake

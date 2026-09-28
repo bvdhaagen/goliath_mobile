@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_interfaces/ament_cmake_export_targets/ament_cmake_export_targets-extras.cmake

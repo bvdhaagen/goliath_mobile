@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/src/golitath_mobile/goliath/goliath_controller/description/launch/view_goliath.launch.py

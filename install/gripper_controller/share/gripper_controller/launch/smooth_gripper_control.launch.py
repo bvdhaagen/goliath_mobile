@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/src/goliath_gripper/gripper_controller/bringup/launch/smooth_gripper_control.launch.py

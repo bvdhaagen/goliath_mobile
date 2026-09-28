@@ -1,0 +1,16 @@
+[1.892s] Invoking command in '/home/bart/goliath_mobile/build/ros2_control_demo_testing': PYTHONPATH=/home/bart/goliath_mobile/build/ros2_control_demo_testing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bart/goliath_mobile/install/ros2_control_demo_testing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bart/goliath_mobile/build/ros2_control_demo_testing/build --no-deps symlink_data
+[2.966s] running develop
+[3.288s] running egg_info
+[3.289s] writing ros2_control_demo_testing.egg-info/PKG-INFO
+[3.290s] writing dependency_links to ros2_control_demo_testing.egg-info/dependency_links.txt
+[3.290s] writing entry points to ros2_control_demo_testing.egg-info/entry_points.txt
+[3.292s] writing requirements to ros2_control_demo_testing.egg-info/requires.txt
+[3.292s] writing top-level names to ros2_control_demo_testing.egg-info/top_level.txt
+[3.294s] reading manifest file 'ros2_control_demo_testing.egg-info/SOURCES.txt'
+[3.297s] writing manifest file 'ros2_control_demo_testing.egg-info/SOURCES.txt'
+[3.299s] running build_ext
+[3.300s] Creating /home/bart/goliath_mobile/install/ros2_control_demo_testing/lib/python3.10/site-packages/ros2-control-demo-testing.egg-link (link to .)
+[3.301s] 
+[3.301s] Installed /home/bart/goliath_mobile/build/ros2_control_demo_testing
+[3.302s] running symlink_data
+[3.362s] Invoked command in '/home/bart/goliath_mobile/build/ros2_control_demo_testing' returned '0': PYTHONPATH=/home/bart/goliath_mobile/build/ros2_control_demo_testing/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/bart/goliath_mobile/install/ros2_control_demo_testing/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/bart/goliath_mobile/build/ros2_control_demo_testing/build --no-deps symlink_data

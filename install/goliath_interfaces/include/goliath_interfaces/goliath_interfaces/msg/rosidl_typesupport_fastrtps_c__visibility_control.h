@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_typesupport_fastrtps_c/goliath_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h

@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/hoverboard_demo_description/ament_cmake_core/hoverboard_demo_descriptionConfig.cmake

@@ -1,0 +1,138 @@
+[0.464s] Invoking command in '/home/bart/goliath_mobile/build/goliath_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --build /home/bart/goliath_mobile/build/goliath_interfaces -- -j4 -l4
+[0.578s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_generator_c[0m
+[0.623s] [  9%] Built target goliath_interfaces__rosidl_generator_c
+[0.628s] [ 12%] Built target goliath_interfaces__rs
+[0.628s] [ 15%] Built target goliath_interfaces__cpp
+[0.654s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_introspection_c[0m
+[0.662s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_c[0m
+[0.669s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_fastrtps_c[0m
+[0.672s] [ 15%] Built target ament_cmake_python_symlink_goliath_interfaces
+[0.694s] [ 25%] Built target goliath_interfaces__rosidl_typesupport_introspection_c
+[0.712s] [ 34%] Built target goliath_interfaces__rosidl_typesupport_c
+[0.713s] [ 43%] Built target goliath_interfaces__rosidl_typesupport_fastrtps_c
+[0.723s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_cpp[0m
+[0.754s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_introspection_cpp[0m
+[0.756s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[0.767s] [ 53%] Built target goliath_interfaces__rosidl_typesupport_cpp
+[0.814s] [ 62%] Built target goliath_interfaces__rosidl_typesupport_fastrtps_cpp
+[0.818s] [ 71%] Built target goliath_interfaces__rosidl_typesupport_introspection_cpp
+[0.875s] [ 71%] Built target goliath_interfaces
+[0.928s] [ 75%] Built target goliath_interfaces__py
+[0.957s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_generator_py[0m
+[1.019s] [ 81%] Built target goliath_interfaces__rosidl_generator_py
+[1.068s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[1.073s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[1.074s] [35m[1mConsolidate compiler generated dependencies of target goliath_interfaces__rosidl_typesupport_c__pyext[0m
+[1.115s] [ 87%] Built target goliath_interfaces__rosidl_typesupport_c__pyext
+[1.127s] [ 93%] Built target goliath_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.130s] [100%] Built target goliath_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.416s] running egg_info
+[1.416s] writing goliath_interfaces.egg-info/PKG-INFO
+[1.417s] writing dependency_links to goliath_interfaces.egg-info/dependency_links.txt
+[1.417s] writing top-level names to goliath_interfaces.egg-info/top_level.txt
+[1.424s] reading manifest file 'goliath_interfaces.egg-info/SOURCES.txt'
+[1.425s] writing manifest file 'goliath_interfaces.egg-info/SOURCES.txt'
+[1.477s] [100%] Built target ament_cmake_python_build_goliath_interfaces_egg
+[1.683s] Invoked command in '/home/bart/goliath_mobile/build/goliath_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --build /home/bart/goliath_mobile/build/goliath_interfaces -- -j4 -l4
+[1.687s] Invoking command in '/home/bart/goliath_mobile/build/goliath_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --install /home/bart/goliath_mobile/build/goliath_interfaces
+[1.708s] -- Install configuration: ""
+[1.709s] -- Execute custom install script
+[1.710s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/ament_index/resource_index/rosidl_interfaces/goliath_interfaces
+[1.713s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__functions.h
+[1.714s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__struct.h
+[1.718s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__type_support.h
+[1.718s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/pose_command.h
+[1.718s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/rosidl_generator_c__visibility_control.h
+[1.718s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/library_path.sh
+[1.718s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/library_path.dsv
+[1.720s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__rosidl_typesupport_fastrtps_c.h
+[1.722s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.727s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__rosidl_typesupport_introspection_c.h
+[1.727s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.728s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__builder.hpp
+[1.728s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__struct.hpp
+[1.730s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__traits.hpp
+[1.731s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__type_support.hpp
+[1.731s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/pose_command.hpp
+[1.731s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.732s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__rosidl_typesupport_fastrtps_cpp.hpp
+[1.732s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.733s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/include/goliath_interfaces/goliath_interfaces/msg/detail/pose_command__rosidl_typesupport_introspection_cpp.hpp
+[1.734s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/pythonpath.sh
+[1.734s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/pythonpath.dsv
+[1.735s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces-0.0.0-py3.10.egg-info/PKG-INFO
+[1.736s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces-0.0.0-py3.10.egg-info/SOURCES.txt
+[1.737s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces-0.0.0-py3.10.egg-info/dependency_links.txt
+[1.738s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces-0.0.0-py3.10.egg-info/top_level.txt
+[1.740s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/__init__.py
+[1.742s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/_goliath_interfaces_s.ep.rosidl_typesupport_c.c
+[1.743s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/_goliath_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.744s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/_goliath_interfaces_s.ep.rosidl_typesupport_introspection_c.c
+[1.745s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/goliath_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.746s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/goliath_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.746s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/goliath_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.749s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/libgoliath_interfaces__rosidl_generator_py.so
+[1.749s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/msg/__init__.py
+[1.750s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/msg/_pose_command.py
+[1.750s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/msg/_pose_command_s.c
+[1.750s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/goliath_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-310-x86_64-linux-gnu.so
+[1.750s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/goliath_interfaces_s__rosidl_typesupport_introspection_c.cpython-310-x86_64-linux-gnu.so
+[1.752s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/goliath_interfaces_s__rosidl_typesupport_c.cpython-310-x86_64-linux-gnu.so
+[1.753s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/ament_index/resource_index/rust_packages/goliath_interfaces
+[1.755s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/rust/Cargo.toml
+[1.755s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/rust/build.rs
+[1.757s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/rust/src/lib.rs
+[1.757s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/rust/src/msg.rs
+[1.760s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/rust/src/msg/rmw.rs
+[1.761s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/msg/PoseCommand.idl
+[1.761s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/msg/PoseCommand.msg
+[1.761s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/ament_index/resource_index/package_run_dependencies/goliath_interfaces
+[1.761s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/ament_index/resource_index/parent_prefix_path/goliath_interfaces
+[1.762s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/ament_prefix_path.sh
+[1.762s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/ament_prefix_path.dsv
+[1.762s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/path.sh
+[1.762s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/environment/path.dsv
+[1.762s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/local_setup.bash
+[1.763s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/local_setup.sh
+[1.763s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/local_setup.zsh
+[1.766s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/local_setup.dsv
+[1.766s] -- Symlinking: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/package.dsv
+[1.784s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/ament_index/resource_index/packages/goliath_interfaces
+[1.787s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.787s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.787s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.792s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.792s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.794s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.794s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.794s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfacesConfig.cmake
+[1.794s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfacesConfig-version.cmake
+[1.795s] -- Up-to-date symlink: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/package.xml
+[1.795s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_generator_c.so
+[1.795s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.795s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_typesupport_introspection_c.so
+[1.796s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_typesupport_c.so
+[1.796s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.799s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.799s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_typesupport_cpp.so
+[1.908s] Listing '/home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces'...
+[1.908s] Listing '/home/bart/goliath_mobile/install/goliath_interfaces/local/lib/python3.10/dist-packages/goliath_interfaces/msg'...
+[1.921s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/lib/libgoliath_interfaces__rosidl_generator_py.so
+[1.922s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_generator_cExport.cmake
+[1.922s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.925s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_typesupport_fastrtps_cExport.cmake
+[1.925s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.926s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.926s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.926s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_cExport.cmake
+[1.926s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.927s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_generator_cppExport.cmake
+[1.928s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.929s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.929s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.929s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.930s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_cppExport.cmake
+[1.931s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/goliath_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.931s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_generator_pyExport.cmake
+[1.932s] -- Up-to-date: /home/bart/goliath_mobile/install/goliath_interfaces/share/goliath_interfaces/cmake/export_goliath_interfaces__rosidl_generator_pyExport-noconfig.cmake
+[1.937s] Invoked command in '/home/bart/goliath_mobile/build/goliath_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/bart/goliath_mobile/install/ros2_control_demo_testing:/home/bart/goliath_mobile/install/gripper_description:/opt/ros/humble /usr/bin/cmake --install /home/bart/goliath_mobile/build/goliath_interfaces

@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/gripper_controller/ament_cmake_environment_hooks/local_setup.sh

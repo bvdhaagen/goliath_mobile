@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-83a284a881db9836fcf4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.12"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hoverboard_hardware_interface",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "hoverboard_hardware_interface::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hoverboard_hardware_interface-4cc5240c64c2a3bf7dc1.json",
+					"name" : "hoverboard_hardware_interface",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "hoverboard_hardware_interface_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-hoverboard_hardware_interface_uninstall-6b2a94510ba9fd2e20ac.json",
+					"name" : "hoverboard_hardware_interface_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "serial_port_service::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-serial_port_service-44955a0d8d65dec1694c.json",
+					"name" : "serial_port_service",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-ee025a49995a51708f74.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/bart/goliath_mobile/build/hoverboard_hardware_interface",
+		"source" : "/home/bart/goliath_mobile/src/golitath_mobile/hoverboard_ros2_control/hoverboard_hardware_interface"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

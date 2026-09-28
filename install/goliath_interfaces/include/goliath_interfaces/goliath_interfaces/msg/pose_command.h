@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_generator_c/goliath_interfaces/msg/pose_command.h

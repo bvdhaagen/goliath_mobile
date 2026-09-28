@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/src/goliath_gripper/gripper_controller/description/launch/view_gripper.launch.py

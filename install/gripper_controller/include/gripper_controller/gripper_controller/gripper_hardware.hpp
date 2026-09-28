@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/src/goliath_gripper/gripper_controller/hardware/include/gripper_controller/gripper_hardware.hpp

@@ -1,0 +1,1 @@
+/home/bart/goliath_mobile/build/goliath_interfaces/rosidl_typesupport_fastrtps_cpp/goliath_interfaces/msg/detail/pose_command__rosidl_typesupport_fastrtps_cpp.hpp

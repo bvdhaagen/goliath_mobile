@@ -1,0 +1,62 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake_auto: 1.3.14 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+-- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found ament_lint_auto: 0.12.15 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/bart/goliath_mobile/build/hoverboard_demo_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/urdf/hoverboard_description.xacro
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/urdf/macros.xacro
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/urdf/materials.xacro
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/urdf/ros2_control.xacro
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/urdf/wheels.xacro
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/rviz/hoverboard.rviz
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/base_link.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/front_plate.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/imu.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/jetson.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/left_back_wheel.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/left_front_wheel.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/left_plate.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/lidar.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/logo1.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/logo2.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/mount_link.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/plate.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/rear_plate.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/right_back_wheel.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/right_front_wheel.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/right_plate.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/top_cover.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/meshes/zed_mini.stl
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/ament_index/resource_index/package_run_dependencies/hoverboard_demo_description
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/ament_index/resource_index/parent_prefix_path/hoverboard_demo_description
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/environment/path.sh
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/environment/path.dsv
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/local_setup.bash
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/local_setup.sh
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/local_setup.zsh
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/local_setup.dsv
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/package.dsv
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/ament_index/resource_index/packages/hoverboard_demo_description
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/cmake/hoverboard_demo_descriptionConfig.cmake
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/cmake/hoverboard_demo_descriptionConfig-version.cmake
+-- Symlinking: /home/bart/goliath_mobile/install/hoverboard_demo_description/share/hoverboard_demo_description/package.xml
