@@ -4,12 +4,54 @@
 
 
 # golitath_mobile
-Golitah mobile is a 4 wheel drive AVG that serves as mobile base for the robot arm.
+Prerequisites & Dependencies
 
-I'm working hard to get all simulation files in place. For the robot_base this is not done yet. 
+Make sure you are running Ubuntu 22.04 LTS with ROS 2 Humble installed.
 
-To get started with the real robot you need 2 complete and well working hoverboards. 
-Follow this link for a  video guide on how to get the hoverboard to work
-https://www.youtube.com/watch?v=E6JbFnRiQ5g&t=20s
+Required system packages:
 
-This repository focus is on the combined control of the robot arm on a mobel base link 
+sudo apt update && sudo apt install -y \
+  ros-humble-ros2-control \
+  ros-humble-ros2-controllers \
+  ros-humble-moveit \
+  ros-humble-nav2-bringup \
+  ros-humble-joint-state-publisher-gui \
+  ros-humble-xacro \
+  python3-colcon-common-extensions \
+  python3-rosdep
+
+Step-by-Step Installation1.Set Up workspace Directory:
+Ensure environment is clean before cloning.
+
+  mkdir ~/goliath_ws
+  cd ~/goliath_ws
+  
+
+Clone your Goliath packages (description, bringup, moveit_config, and hardware driver nodes)
+
+  git clone -b humble https://github.com/bvdhaagen/goliath_mobile.git
+  cd ~/goliath_ws
+
+Install deps   
+
+  sudo rosdep init # Run only if rosdep hasn't been initialized yet
+  rosdep update
+  rosdep install --from-paths src --ignore-src -y -r
+
+Build workspace
+
+  source /opt/ros/humble/setup.bash
+  colcon build --symlink-install
+
+Source your workspace 
+  
+  source ~/goliath_ws/install/setup.bash
+
+  
+Launch Full Bringup (Hardware + MoveIt 2)
+
+  ros2 launch goliath_bringup goliath_bringup.launch.py
+
+
+  
+  
