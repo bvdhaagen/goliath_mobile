@@ -3,7 +3,7 @@
 ![Screencastfrom05-26-2025031019PM-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ff9e2ffa-efec-4e6e-8547-04a1040732de)
 
 
-# golitath_mobile
+# goliath_mobile
 Prerequisites & Dependencies
 
 Make sure you are running Ubuntu 22.04 LTS with ROS 2 Humble installed.
