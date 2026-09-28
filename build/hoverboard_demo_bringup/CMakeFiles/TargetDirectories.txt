@@ -1,9 +1,0 @@
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/uninstall.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/hoverboard_demo_bringup_uninstall.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/test.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/edit_cache.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/rebuild_cache.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/list_install_components.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/install.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/install/local.dir
-/home/bart/goliath_mobile/build/hoverboard_demo_bringup/CMakeFiles/install/strip.dir

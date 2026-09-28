@@ -1,4 +1,0 @@
-source;share/goliath_controller/local_setup.bash
-source;share/goliath_controller/local_setup.dsv
-source;share/goliath_controller/local_setup.sh
-source;share/goliath_controller/local_setup.zsh
