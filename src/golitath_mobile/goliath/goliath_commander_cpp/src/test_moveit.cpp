@@ -7,7 +7,7 @@ int main(int argc, char **argv)
     rclcpp::init(argc, argv);
     auto node = std::make_shared<rclcpp::Node>("test_moveit");
     
-    auto arm = moveit::planning_interface::MoveGroupInterface(node, "position");
+    auto arm = moveit::planning_interface::MoveGroupInterface(node, "arm");
     
     // Example Cartesian path
     geometry_msgs::msg::Pose target_pose;
