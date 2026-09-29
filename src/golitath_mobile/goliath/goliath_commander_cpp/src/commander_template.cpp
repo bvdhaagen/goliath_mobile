@@ -22,7 +22,7 @@ public:
     Commander(std::shared_ptr<rclcpp::Node> node)
     {
         node_ = node;
-        arm_ = std::make_shared<MoveGroupInterface>(node_, "position");
+        arm_ = std::make_shared<MoveGroupInterface>(node_, "arm");
         arm_->setMaxVelocityScalingFactor(1.0);
         arm_->setMaxAccelerationScalingFactor(1.0);
 
